@@ -10,7 +10,7 @@ Per poter fare tutte le esperienze descritte è necessario procurarsi il materia
 
 Il materiale didattico comprende:
 - Slide del Corso
-- Handbook per lo studente
+- [Handbook per lo studente](https://raw.githubusercontent.com/hardwareliberopinerolo/Arduino_Manuals/blob/master/Italiano/corso%20di%20elettronica%20e%20arduino.pdf) 
 
 L'autore del materiale didattico è Maurizio Bazzano
 
