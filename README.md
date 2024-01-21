@@ -16,5 +16,4 @@ L'autore del materiale didattico è Maurizio Bazzano
 
 **Arduino Basic Connection**
 
-
-[Schemi di collegamento per Arduino](https://raw.githubusercontent.com/hardwareliberopinerolo/Arduino_Manuals/master/ABC/ABC%20Basic%20Connections%202018.pdf)
+Schemi di collegamento per Arduino: [Arduino Basic Connection](https://raw.githubusercontent.com/hardwareliberopinerolo/Arduino_Manuals/master/ABC/ABC%20Basic%20Connections%202018.pdf) di Alberto Piganti - rev 2018
