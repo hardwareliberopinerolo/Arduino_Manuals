@@ -10,10 +10,10 @@ Per poter fare tutte le esperienze descritte è necessario procurarsi il materia
 
 Il materiale didattico comprende:
 - Slide del Corso
-- Handbook per lo studente
+- [Handbook per lo studente](https://raw.githubusercontent.com/hardwareliberopinerolo/Arduino_Manuals/master/Italiano/corso%20di%20elettronica%20e%20arduino.pdf) 
 
 L'autore del materiale didattico è Maurizio Bazzano
 
 **Arduino Basic Connection rev 2018**
 
-Schemi di collegamento per Arduino [Arduino Basic Connection](/ABC/ABC%20Basic%20Connections%202018.pdf) di Alberto Piganti
+Schemi di collegamento per Arduino: [Arduino Basic Connection](https://raw.githubusercontent.com/hardwareliberopinerolo/Arduino_Manuals/master/ABC/ABC%20Basic%20Connections%202018.pdf) di Alberto Piganti - rev 2018
